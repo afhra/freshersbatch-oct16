@@ -1,1 +1,2 @@
 this is js assigment1
+welcome to js assignments
